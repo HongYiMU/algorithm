@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwitchTest", "SwitchTest.vcproj", "{C850D24D-3638-49C7-B222-C36B28BB081E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C850D24D-3638-49C7-B222-C36B28BB081E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C850D24D-3638-49C7-B222-C36B28BB081E}.Debug|Win32.Build.0 = Debug|Win32
+		{C850D24D-3638-49C7-B222-C36B28BB081E}.Release|Win32.ActiveCfg = Release|Win32
+		{C850D24D-3638-49C7-B222-C36B28BB081E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
